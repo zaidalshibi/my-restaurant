@@ -1,0 +1,89 @@
+html {
+    margin: 0px;
+}
+body {
+    background-color: #000000;
+  }
+.name {
+   text-align: left;
+   display: block;
+    margin-left: 220px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    font-size: 100px;
+    color: #ffffff;
+
+}
+nav {
+   background-color: #000000 ;
+   color: #e4dede;
+   font-size: 40px;
+   font-style: normal;
+   text-align: right;
+   margin-left: 500px;
+   margin-top: -70px;
+   padding-bottom: 40px;
+}
+header{
+background-image: url("./resources/logo.jpg");
+background-repeat: no-repeat;
+background-position: left top;
+background-attachment: scroll;
+margin: 0px;
+padding: 0px;
+}
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+.eat {
+    margin-top: 50px;
+    margin-right: 10px;
+    background-image: url("./resources/eat.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: scroll;
+    padding: 0px;
+ 
+}
+#span1 {
+    color: #ffffff;
+    font-size: 70px;
+    position: relative;
+    bottom: 150px;
+}
+.pasta {
+    background-image: url("./resources/pasta.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+    padding-left: 10px;
+    margin-top: 0%;
+
+}
+#span2 {
+    color: #ffffff;
+    font-size: 90px;
+    padding-top: -300px;
+    position: relative;
+    bottom: 150px;
+    
+}
+footer {
+    color: #ffffff;
+    margin-top: 100px;
+    font-size: 40px;
+}
+#x {
+    background-image: url(./resources/zaid.jpg);
+    width: 800px;
+    height: 800px;
+    margin-top: 25px;
+    margin-left: 250px;
+    margin-bottom: 25px;
+}
+#about {
+    font-size: 40px;
+    color: #ffffff;
+}
